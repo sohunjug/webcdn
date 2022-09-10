@@ -80,3 +80,5 @@ DOMAIN-SUFFIX,cristiamo.xyz
 IP-CIDR,161.97.148.156/24,no-resolve
 DOMAIN-SUFFIX,emby.cristiamo.top
 DOMAIN-SUFFIX,emby.crislee.cn
+IP-CIDR,94.130.71.39/24,no-resolve
+
