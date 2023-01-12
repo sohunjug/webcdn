@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,kayak.com,DIRECT
 DOMAIN-SUFFIX,kayak.com.cn,DIRECT
 DOMAIN-SUFFIX,kayakwise.cn,DIRECT
 DOMAIN-SUFFIX,kayakwise.com,DIRECT
+DOMAIN-SUFFIX,pttime.org,DIRECT
 
 IP-CIDR,172.21.0.0/16,no-resolve
 IP-CIDR,172.22.0.0/16,no-resolve
