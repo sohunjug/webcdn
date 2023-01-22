@@ -7,9 +7,12 @@ DOMAIN-SUFFIX,kayak.com,DIRECT
 DOMAIN-SUFFIX,kayak.com.cn,DIRECT
 DOMAIN-SUFFIX,kayakwise.cn,DIRECT
 DOMAIN-SUFFIX,kayakwise.com,DIRECT
-DOMAIN-SUFFIX,pttime.org,DIRECT
 DOMAIN-SUFFIX,sohunjug.com,DIRECT
 DOMAIN-SUFFIX,sub.xeton.dev,DIRECT
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,wintersakura.net
 
 IP-CIDR,172.21.0.0/16,no-resolve
 IP-CIDR,172.22.0.0/16,no-resolve
