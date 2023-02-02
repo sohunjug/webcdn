@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,kayak.com.cn,DIRECT
 DOMAIN-SUFFIX,kayakwise.cn,DIRECT
 DOMAIN-SUFFIX,kayakwise.com,DIRECT
 DOMAIN-SUFFIX,sohunjug.com,DIRECT
+DOMAIN-SUFFIX,hdmayi.com,DIRECT
 DOMAIN-SUFFIX,sub.xeton.dev,DIRECT
 
 IP-CIDR,172.21.0.0/16,no-resolve
