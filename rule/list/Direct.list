@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,kayakwise.com,DIRECT
 DOMAIN-SUFFIX,sohunjug.com,DIRECT
 DOMAIN-SUFFIX,hdmayi.com,DIRECT
 DOMAIN-SUFFIX,sub.xeton.dev,DIRECT
+DOMAIN-SUFFIX,pt.btschool.club,DIRECT
 
 IP-CIDR,172.21.0.0/16,no-resolve
 IP-CIDR,172.22.0.0/16,no-resolve
