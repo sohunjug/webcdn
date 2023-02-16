@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,hdmayi.com,DIRECT
 DOMAIN-SUFFIX,m-team.cc,DIRECT
 DOMAIN-SUFFIX,carpt.net,DIRECT
 DOMAIN-SUFFIX,sub.xeton.dev,DIRECT
+DOMAIN-SUFFIX,springsunday.net,DIRECT
 
 IP-CIDR,172.21.0.0/16,no-resolve
 IP-CIDR,172.22.0.0/16,no-resolve
