@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,wintersakura.net
-DOMAIN-SUFFIX,pt.btschool.club
 
 IP-CIDR,172.21.0.0/16,no-resolve
 IP-CIDR,172.22.0.0/16,no-resolve
