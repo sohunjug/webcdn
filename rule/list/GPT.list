@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,cf2.poecdn.net
 DOMAIN-SUFFIX,mst.ai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sentry.io
