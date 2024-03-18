@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coincheck.com
@@ -36,6 +37,7 @@ DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,boba.network
+DOMAIN-KEYWORD,bitget
 
 # > Binance
 DOMAIN-SUFFIX,binance.cc
@@ -96,7 +98,10 @@ DOMAIN-SUFFIX,huobi.ws
 DOMAIN-SUFFIX,huobi.ug
 DOMAIN-SUFFIX,huobi.co.ma
 DOMAIN-SUFFIX,huobi.br.com
+DOMAIN-SUFFIX,htx.com
 PROCESS-NAME,Huobi.exe
+DOMAIN-KEYWORD,huobi
+DOMAIN-KEYWORD,htx
 DOMAIN-KEYWORD,huobi
 
 # > OKX
