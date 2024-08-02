@@ -25,7 +25,6 @@ DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
-DOMAIN-KEYWORD,adkwai
 
 # 广告联盟-国内****************
 DOMAIN-SUFFIX,09mk.cn
@@ -422,50 +421,7 @@ DOMAIN-SUFFIX,zhiziyun.com
 DOMAIN-SUFFIX,zhjfad.com
 DOMAIN-SUFFIX,zqzxz.com
 DOMAIN-SUFFIX,zzsx8.com
-DOMAIN-SUFFIX,tuibear.com
-DOMAIN-SUFFIX,bytesfield.com
-DOMAIN-SUFFIX,youtukefu.net
-DOMAIN-SUFFIX,pglstatp-toutiao.com
-DOMAIN-SUFFIX,junjue888.com
-DOMAIN-SUFFIX,zhonglianhuashu.com
-DOMAIN-SUFFIX,tuia.cn
-DOMAIN-SUFFIX,chengzijianzhan.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,fengmang156.com
-DOMAIN-SUFFIX,yunsiya.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,iqushai.com
-DOMAIN-SUFFIX,mintegral.com
-DOMAIN-SUFFIX,adsl.cn
-DOMAIN-SUFFIX,adkwai.com
-DOMAIN-SUFFIX,freelynet.com
-DOMAIN-SUFFIX,laidianbanlv.cn
-DOMAIN-SUFFIX,banlianghao.com
-DOMAIN-SUFFIX,diyring.cc
-DOMAIN-SUFFIX,ringbox.cn
-DOMAIN-SUFFIX,everwin.cn
-DOMAIN-SUFFIX,startapp.com
-DOMAIN-SUFFIX,wu4647.xyz
-DOMAIN-SUFFIX,v.qisaoba.com
-DOMAIN-SUFFIX,heitu.com
-DOMAIN-SUFFIX,conwaytech.cn
-DOMAIN-SUFFIX,kyw4y0s.com
-DOMAIN-SUFFIX,marbct.xyz
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,sc-001.net
-DOMAIN-SUFFIX,rayjump.com
-DOMAIN-SUFFIX,gdt.qq.com
-DOMAIN-SUFFIX,appinfo.gdt.qq.com
-DOMAIN-SUFFIX,h5.gdt.qq.com
-DOMAIN-SUFFIX,c2.gdt.qq.com
-DOMAIN-SUFFIX,v.gdt.qq.com
-DOMAIN-SUFFIX,v.gdt.qq.com
-DOMAIN-SUFFIX,jiuyue919.com
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com
-DOMAIN-SUFFIX,mssdk.volces.com
-DOMAIN-SUFFIX,f.gm.mob.com
-DOMAIN-SUFFIX,gm.mob.com
-DOMAIN-SUFFIX,open.e.kuaishou.cn
+DOMAIN-SUFFIX,wwads.cn
 
 # 广告联盟-国外****************
 DOMAIN-SUFFIX,acuityplatform.com
@@ -646,5 +602,3 @@ DOMAIN-SUFFIX,114so.cn
 DOMAIN-SUFFIX,go.10086.cn
 DOMAIN-SUFFIX,hivedata.cc
 DOMAIN-SUFFIX,navi.gd.chinamobile.com
-DOMAIN,ulogs.umengcloud.com
-DOMAIN,ulogs.umengcloud.co
