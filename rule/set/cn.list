@@ -1,5 +1,6 @@
 IP-CIDR6,fd00::/8
 DOMAIN-REGEX,*.*.plex.direct
+DST-PORT,32400
 # 内容：SteamCN
 # 数量：16条
 DOMAIN,csgo.wmsj.cn
