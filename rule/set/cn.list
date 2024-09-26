@@ -1,5 +1,5 @@
 IP-CIDR6,fd00::/8
-DOMAIN-SUFFIX,plex.direct
+DOMAIN-REGEX,*.*.plex.direct
 # 内容：SteamCN
 # 数量：16条
 DOMAIN,csgo.wmsj.cn
