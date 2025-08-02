@@ -12,3 +12,44 @@ DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,chat.lmsys.org
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,byr.pt
+# ifconfig.me
+DOMAIN-SUFFIX,ifconfig.me
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,pay.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,chatgpt.com
+# Add ai.com
+DOMAIN-SUFFIX,ai.com
+# Add stripe.com
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,plugins.jetbrains.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
+# Google
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,one.google.com
+
+# Jetbrains AI
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,plugins.jetbrains.com
+DOMAIN-KEYWORD,intellij.net
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.ai
+
+#add Claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,forefront.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,cdn.usefathom.com
