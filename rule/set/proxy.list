@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,apple
+
+IP-CIDR6,2a03::/8
