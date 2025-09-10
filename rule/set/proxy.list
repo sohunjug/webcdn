@@ -3,9 +3,5 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,codeium.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,apple
 
-IP-CIDR6,2a03::/8
+IP-CIDR6,2a03:/8
