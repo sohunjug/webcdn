@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,netbird.io
 
 IP-CIDR6,2a03:/8
+IP-CIDR6,2a03:2880:/8
