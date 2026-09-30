@@ -1,0 +1,49 @@
+name: Sync MRS rulesets
+
+on:
+  schedule:
+    - cron: "23 19 * * *" # UTC 19:23 = 北京 03:23,每天自动同步上游
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download mihomo (pinned)
+        run: |
+          V=v1.19.31
+          curl -sL --fail -o mihomo.gz "https://github.com/MetaCubeX/mihomo/releases/download/${V}/mihomo-linux-amd64-${V}.gz"
+          gunzip mihomo.gz && chmod +x mihomo && sudo mv mihomo /usr/local/bin/
+          mihomo -v
+
+      - name: Fetch upstream and convert
+        run: |
+          mkdir -p rule/mrs tmp
+          curl -sL --fail -o tmp/direct.txt https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
+          curl -sL --fail -o tmp/reject.txt https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
+          mihomo convert-ruleset domain yaml tmp/direct.txt rule/mrs/direct.mrs
+          mihomo convert-ruleset domain yaml tmp/reject.txt rule/mrs/reject.mrs
+          mihomo convert-ruleset domain yaml rule/set/proxy.txt rule/mrs/proxy.mrs
+          # 产物完整性检查:每个 mrs 必须大于 100KB
+          for f in rule/mrs/*.mrs; do
+            size=$(stat -c%s "$f")
+            if [ "$size" -le 102400 ]; then echo "::error::$f too small ($size bytes)"; exit 1; fi
+          done
+          ls -la rule/mrs/
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rule/mrs
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: sync mrs rulesets from upstream"
+            git push
+          fi

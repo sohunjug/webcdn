@@ -548,7 +548,6 @@ DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,sape.ru
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,smaato.com
 DOMAIN-SUFFIX,smaato.net
@@ -1022,7 +1021,6 @@ DOMAIN-SUFFIX,ttqr58.cn,REJECT
 DOMAIN-SUFFIX,jstdjq.com,REJECT
 DOMAIN-SUFFIX,wanhua6.com,REJECT
 DOMAIN-SUFFIX,bzshzx.com,REJECT
-DOMAIN-SUFFIX,ttqr58.cn,REJECT
 DOMAIN-SUFFIX,xdrig.com,REJECT
 DOMAIN-SUFFIX,cnshef.com,REJECT
 DOMAIN-SUFFIX,cdn.dsp.com,REJECT
